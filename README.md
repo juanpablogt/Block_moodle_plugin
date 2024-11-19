@@ -13,7 +13,7 @@ Example:
 
 Below is an image of the teacher block. In the example, we can see that two teachers are displayed in the block. If the role of a course participant is changed to "Teacher," their name will appear in the block after refreshing the page.
 
-<div allaing = center> ![image](https://github.com/user-attachments/assets/a8aaae3e-a500-439c-a697-595089a5ff51)</div>
+<div aling=center> ![image](https://github.com/user-attachments/assets/a8aaae3e-a500-439c-a697-595089a5ff51)</div>
 
 We will change the role of the participant to teacher
 
