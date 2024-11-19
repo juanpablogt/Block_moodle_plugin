@@ -2,9 +2,9 @@ In this repository, you will find two plugins developed in PHP for the Moodle pl
 
 The plugins provide the following features:
 
-1 List all the teachers and advisors in a course.
-2 Modify the block's configuration based on user roles.
-3 Send messages to teachers and advisors.
+1 List all the teachers and advisors in a course.\n
+2 Modify the block's configuration based on user roles.\n
+3 Send messages to teachers and advisors.\n
 
 
 Example:
